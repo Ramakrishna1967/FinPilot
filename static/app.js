@@ -104,7 +104,12 @@ function renderReco(d) {
 }
 
 function connect() {
-  const ws = new WebSocket((location.protocol === "https:" ? "wss://" : "ws://") + location.host + "/ws");
+  // Split-deploy aware: same-origin by default, or window.FINPILOT_API (config.js)
+  const base = (window.FINPILOT_API || "").replace(/\/$/, "");
+  const wsUrl = base
+    ? base.replace(/^http/, "ws") + "/ws"
+    : (location.protocol === "https:" ? "wss://" : "ws://") + location.host + "/ws";
+  const ws = new WebSocket(wsUrl);
   ws.onmessage = (ev) => {
     const d = JSON.parse(ev.data);
     if (d.type === "hello") { renderMetrics({ ...d.metrics, tick: d.tick }); }
@@ -118,10 +123,16 @@ function connect() {
 }
 connect();
 
+/* ---- shared API base (same-origin unless config.js sets FINPILOT_API) ---- */
+function apiUrl(path) {
+  const base = (window.FINPILOT_API || "").replace(/\/$/, "");
+  return base ? base + path : path;
+}
+
 btn.onclick = async () => {
   btn.disabled = true; btn.textContent = "Running scenario…";
   try {
-    const res = await fetch("/api/what-should-i-do", { method: "POST" });
+    const res = await fetch(apiUrl("/api/what-should-i-do"), { method: "POST" });
     renderReco(await res.json());  // WS broadcast also arrives; render direct response for snappiness
   } finally { btn.disabled = false; btn.textContent = "✨ What should I do?"; }
 };
@@ -156,7 +167,7 @@ async function chatAsk() {
   chatSend.disabled = true;
   const thinking = chatAdd("…", "thinking");
   try {
-    const res = await fetch("/api/chat", {
+    const res = await fetch(apiUrl("/api/chat"), {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ question: q }),

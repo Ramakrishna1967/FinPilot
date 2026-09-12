@@ -16,6 +16,7 @@ from pathlib import Path
 import pandas as pd
 from dotenv import load_dotenv
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
@@ -33,6 +34,14 @@ START_DAY_IDX = int(os.getenv("START_DAY_IDX", "77"))  # 0-based -> day 78 of 90
 SEED_CASH = 2500000
 
 app = FastAPI(title="FinPilot Live")
+# Allow a separately-hosted frontend (e.g. Vercel static) to call the API.
+# Set FRONTEND_ORIGIN to the exact site URL in production; "*" is demo convenience.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[os.getenv("FRONTEND_ORIGIN", "*")],
+    allow_methods=["GET", "POST"],
+    allow_headers=["*"],
+)
 
 # ---------------- Data loading ----------------
 def load_data():
