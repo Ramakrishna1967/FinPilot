@@ -299,7 +299,49 @@ body {
 }
 .rule-card b { color: var(--text); }
 
-.feed::-webkit-scrollbar, .synth-list::-webkit-scrollbar { width: 8px; }
+/* ---------- 4-agent squad roster + snapshot badges (append-only) ---------- */
+.squad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: var(--grid);
+  border: 1px solid var(--grid);
+  margin-top: 16px;
+}
+@media (max-width: 1100px) { .squad { grid-template-columns: repeat(2, 1fr); } }
+.squad-item {
+  background: var(--panel);
+  padding: 9px 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+.squad-dot { width: 7px; height: 7px; border-radius: 50%; background: #6f6f78; flex-shrink: 0; }
+.squad-item.watching .squad-dot { background: var(--up); box-shadow: 0 0 6px rgba(43,255,136,.7); }
+.squad-item.info .squad-dot { background: #6f6f78; }
+.squad-item.warning .squad-dot { background: var(--amber); box-shadow: 0 0 6px rgba(255,158,44,.8); }
+.squad-item.critical .squad-dot { background: var(--down); box-shadow: 0 0 6px rgba(255,82,82,.8); }
+.squad-item.synthesis .squad-dot { background: var(--amber); box-shadow: 0 0 6px rgba(255,158,44,.8); }
+.squad-name {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.squad-sub { margin-left: auto; font-family: var(--mono); font-size: 10px; color: var(--muted); white-space: nowrap; }
+.badge.snap-badge {
+  border: 1px dashed #3a3a42;
+  padding: 1px 8px;
+  color: var(--muted);
+}
+.card.snap { border-bottom-style: dashed; }
+.synth.snap { border-left-style: dashed; }
+.feed::-webkit-scrollbar, .synth-list::-webkit-scrollbar, .chat-list::-webkit-scrollbar { width: 8px; }
 .feed::-webkit-scrollbar-thumb, .synth-list::-webkit-scrollbar-thumb { background: #2a2a31; }
 .feed::-webkit-scrollbar-track, .synth-list::-webkit-scrollbar-track { background: transparent; }
 
