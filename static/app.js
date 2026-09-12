@@ -80,7 +80,7 @@ function addSynthesis(d) {
   const card = document.createElement("div");
   card.className = "card";
   card.style.borderLeftColor = "var(--amber)";
-  card.innerHTML = `<div class="card-head"><span>🧭</span><span class="agent">Finance Manager</span>
+  card.innerHTML = `<div class="card-head"><span>></span><span class="agent">Finance Manager</span>
     <span class="badge info">synthesis</span><time>${fmtTime(d.ts)}</time></div><p></p>`;
   card.querySelector("p").textContent = d.synthesis || "";
   feed.prepend(card);
