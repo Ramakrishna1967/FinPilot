@@ -1,0 +1,463 @@
+date,category,vendor,amount
+2026-06-04,Cloud Infra,AWS India (RDS),5260
+2026-06-04,Payroll,Payroll - Team,22969
+2026-06-04,Marketing,Meta Ads,2952
+2026-06-04,Software Tools,GitHub,2972
+2026-06-04,Office,Swiggy Office,1584
+2026-06-04,Travel,Uber for Business,908
+2026-06-05,Cloud Infra,AWS India (EC2),4619
+2026-06-05,Payroll,Payroll - Team,22363
+2026-06-05,Marketing,Meta Ads,5950
+2026-06-05,Software Tools,GitHub,2669
+2026-06-05,Office,Amazon Office Supplies,1487
+2026-06-05,Travel,IndiGo,901
+2026-06-06,Cloud Infra,AWS India (EC2),4753
+2026-06-06,Marketing,Meta Ads,6155
+2026-06-06,Software Tools,Notion,2219
+2026-06-06,Travel,IndiGo,755
+2026-06-07,Cloud Infra,AWS India,4731
+2026-06-07,Software Tools,GitHub,2956
+2026-06-07,Office,Amazon Office Supplies,2217
+2026-06-07,Travel,IndiGo,1530
+2026-06-08,Cloud Infra,AWS India (RDS),4650
+2026-06-08,Payroll,Payroll - Team,20912
+2026-06-08,Marketing,Meta Ads,3488
+2026-06-08,Software Tools,Slack,2170
+2026-06-08,Office,WeWork / Office,1391
+2026-06-08,Travel,Uber for Business,1482
+2026-06-09,Cloud Infra,AWS India (EC2),5902
+2026-06-09,Payroll,Payroll - Team,22248
+2026-06-09,Marketing,Google Ads,4672
+2026-06-09,Software Tools,Notion,2765
+2026-06-09,Office,Swiggy Office,2167
+2026-06-09,Travel,Uber for Business,1236
+2026-06-10,Cloud Infra,AWS India (RDS),5106
+2026-06-10,Payroll,Payroll - Team,21529
+2026-06-10,Marketing,Google Ads,5915
+2026-06-10,Software Tools,Slack,2424
+2026-06-10,Office,Swiggy Office,1329
+2026-06-10,Travel,MakeMyTrip,1143
+2026-06-11,Cloud Infra,AWS India (RDS),5075
+2026-06-11,Payroll,Payroll - Team,22981
+2026-06-11,Marketing,LinkedIn Ads,5456
+2026-06-11,Software Tools,Notion,3420
+2026-06-11,Office,Swiggy Office,2182
+2026-06-11,Travel,Uber for Business,1594
+2026-06-12,Cloud Infra,AWS India (EC2),5182
+2026-06-12,Payroll,Payroll - Team,21859
+2026-06-12,Marketing,LinkedIn Ads,5108
+2026-06-12,Software Tools,Slack,3277
+2026-06-12,Office,Swiggy Office,1837
+2026-06-12,Travel,MakeMyTrip,1474
+2026-06-13,Cloud Infra,AWS India (EC2),4632
+2026-06-13,Marketing,LinkedIn Ads,3637
+2026-06-13,Software Tools,Datadog,2558
+2026-06-13,Office,Swiggy Office,2287
+2026-06-13,Travel,MakeMyTrip,498
+2026-06-14,Cloud Infra,AWS India (EC2),4501
+2026-06-14,Marketing,Meta Ads,2947
+2026-06-14,Travel,Uber for Business,1770
+2026-06-15,Cloud Infra,AWS India (RDS),4617
+2026-06-15,Payroll,Payroll - Team,21152
+2026-06-15,Marketing,LinkedIn Ads,3622
+2026-06-15,Software Tools,GitHub,2950
+2026-06-15,Office,Swiggy Office,1437
+2026-06-16,Payroll,Payroll - Team,21586
+2026-06-16,Marketing,Google Ads,5274
+2026-06-16,Software Tools,Slack,3263
+2026-06-16,Travel,Uber for Business,1788
+2026-06-17,Cloud Infra,AWS India (RDS),5662
+2026-06-17,Payroll,Payroll - Team,22622
+2026-06-17,Marketing,Google Ads,5081
+2026-06-17,Software Tools,Datadog,2578
+2026-06-17,Office,Swiggy Office,1374
+2026-06-17,Travel,Uber for Business,1752
+2026-06-18,Cloud Infra,AWS India (RDS),4695
+2026-06-18,Payroll,Payroll - Team,23024
+2026-06-18,Marketing,LinkedIn Ads,6011
+2026-06-18,Software Tools,Notion,3256
+2026-06-18,Office,WeWork / Office,1525
+2026-06-18,Travel,IndiGo,1117
+2026-06-19,Cloud Infra,AWS India (EC2),5462
+2026-06-19,Payroll,Payroll - Team,20963
+2026-06-19,Marketing,LinkedIn Ads,3464
+2026-06-19,Software Tools,Notion,3332
+2026-06-19,Office,WeWork / Office,1818
+2026-06-20,Cloud Infra,AWS India,5182
+2026-06-20,Marketing,LinkedIn Ads,5025
+2026-06-20,Software Tools,Notion,2124
+2026-06-20,Office,Swiggy Office,2007
+2026-06-20,Travel,Uber for Business,980
+2026-06-21,Cloud Infra,AWS India (RDS),5084
+2026-06-21,Marketing,LinkedIn Ads,3967
+2026-06-21,Software Tools,GitHub,2452
+2026-06-21,Office,Amazon Office Supplies,1601
+2026-06-21,Travel,MakeMyTrip,1640
+2026-06-22,Cloud Infra,AWS India (EC2),5572
+2026-06-22,Payroll,Payroll - Team,22494
+2026-06-22,Marketing,LinkedIn Ads,5697
+2026-06-22,Software Tools,GitHub,2351
+2026-06-22,Office,WeWork / Office,1397
+2026-06-22,Travel,Uber for Business,1290
+2026-06-23,Cloud Infra,AWS India (EC2),5415
+2026-06-23,Payroll,Payroll - Team,21126
+2026-06-23,Marketing,LinkedIn Ads,4390
+2026-06-23,Software Tools,Notion,3452
+2026-06-23,Office,WeWork / Office,1776
+2026-06-23,Travel,Uber for Business,484
+2026-06-24,Cloud Infra,AWS India (RDS),4657
+2026-06-24,Payroll,Payroll - Team,22988
+2026-06-24,Marketing,LinkedIn Ads,3126
+2026-06-24,Software Tools,Slack,3207
+2026-06-24,Office,Swiggy Office,1671
+2026-06-24,Travel,IndiGo,1349
+2026-06-25,Cloud Infra,AWS India (RDS),5389
+2026-06-25,Payroll,Payroll - Team,23012
+2026-06-25,Marketing,Google Ads,3448
+2026-06-25,Software Tools,Slack,2214
+2026-06-25,Office,WeWork / Office,1341
+2026-06-25,Travel,IndiGo,1518
+2026-06-26,Cloud Infra,AWS India (RDS),4781
+2026-06-26,Payroll,Payroll - Team,21522
+2026-06-26,Software Tools,Slack,2470
+2026-06-26,Office,Amazon Office Supplies,1848
+2026-06-26,Travel,MakeMyTrip,806
+2026-06-27,Marketing,Meta Ads,3807
+2026-06-27,Software Tools,Datadog,3390
+2026-06-27,Office,Amazon Office Supplies,2004
+2026-06-27,Travel,Uber for Business,817
+2026-06-28,Cloud Infra,AWS India,4545
+2026-06-28,Marketing,Meta Ads,5344
+2026-06-28,Software Tools,GitHub,2228
+2026-06-28,Office,Swiggy Office,1986
+2026-06-28,Travel,MakeMyTrip,1642
+2026-06-29,Cloud Infra,AWS India (EC2),5436
+2026-06-29,Payroll,Payroll - Team,21299
+2026-06-29,Marketing,Google Ads,4470
+2026-06-29,Software Tools,Notion,2672
+2026-06-29,Office,Swiggy Office,2186
+2026-06-29,Travel,Uber for Business,1192
+2026-06-30,Cloud Infra,AWS India (RDS),5689
+2026-06-30,Payroll,Payroll - Team,20981
+2026-06-30,Marketing,LinkedIn Ads,3864
+2026-06-30,Software Tools,GitHub,3255
+2026-06-30,Office,Swiggy Office,1846
+2026-07-01,Cloud Infra,AWS India (EC2),5391
+2026-07-01,Payroll,Payroll - Team,22276
+2026-07-01,Marketing,LinkedIn Ads,4677
+2026-07-01,Software Tools,GitHub,3078
+2026-07-01,Travel,Uber for Business,1703
+2026-07-02,Cloud Infra,AWS India (RDS),5279
+2026-07-02,Payroll,Payroll - Team,21798
+2026-07-02,Marketing,LinkedIn Ads,5987
+2026-07-02,Software Tools,Slack,3007
+2026-07-02,Office,Amazon Office Supplies,2034
+2026-07-02,Travel,IndiGo,1058
+2026-07-03,Cloud Infra,AWS India (RDS),4800
+2026-07-03,Payroll,Payroll - Team,21218
+2026-07-03,Marketing,Google Ads,4530
+2026-07-03,Software Tools,Datadog,2487
+2026-07-03,Office,Swiggy Office,2111
+2026-07-03,Travel,IndiGo,835
+2026-07-04,Cloud Infra,AWS India (RDS),5325
+2026-07-04,Marketing,Meta Ads,3235
+2026-07-04,Software Tools,Datadog,2565
+2026-07-04,Office,WeWork / Office,1608
+2026-07-04,Travel,IndiGo,761
+2026-07-05,Cloud Infra,AWS India,5630
+2026-07-05,Marketing,LinkedIn Ads,4403
+2026-07-05,Software Tools,Slack,3029
+2026-07-05,Office,Amazon Office Supplies,1300
+2026-07-05,Travel,MakeMyTrip,918
+2026-07-06,Cloud Infra,AWS India (RDS),5107
+2026-07-06,Payroll,Payroll - Team,22903
+2026-07-06,Marketing,Meta Ads,4176
+2026-07-06,Software Tools,Notion,2205
+2026-07-06,Office,Amazon Office Supplies,2008
+2026-07-07,Cloud Infra,AWS India (RDS),5472
+2026-07-07,Payroll,Payroll - Team,21736
+2026-07-07,Marketing,LinkedIn Ads,5895
+2026-07-07,Software Tools,GitHub,2150
+2026-07-07,Office,Swiggy Office,1999
+2026-07-07,Travel,IndiGo,1615
+2026-07-08,Cloud Infra,AWS India (RDS),5606
+2026-07-08,Payroll,Payroll - Team,22820
+2026-07-08,Marketing,Google Ads,3778
+2026-07-08,Office,Swiggy Office,1577
+2026-07-08,Travel,IndiGo,770
+2026-07-09,Cloud Infra,AWS India,5656
+2026-07-09,Payroll,Payroll - Team,21285
+2026-07-09,Marketing,Meta Ads,3567
+2026-07-09,Software Tools,Notion,2746
+2026-07-09,Office,Swiggy Office,1980
+2026-07-09,Travel,MakeMyTrip,1498
+2026-07-10,Payroll,Payroll - Team,22980
+2026-07-10,Marketing,LinkedIn Ads,4228
+2026-07-10,Software Tools,Datadog,2523
+2026-07-10,Office,Swiggy Office,1375
+2026-07-10,Travel,Uber for Business,1326
+2026-07-11,Cloud Infra,AWS India (RDS),5946
+2026-07-11,Marketing,Meta Ads,2729
+2026-07-11,Software Tools,Datadog,3463
+2026-07-11,Office,WeWork / Office,2235
+2026-07-11,Travel,Uber for Business,952
+2026-07-12,Cloud Infra,AWS India (RDS),4811
+2026-07-12,Marketing,Google Ads,5151
+2026-07-12,Software Tools,GitHub,3365
+2026-07-12,Office,Amazon Office Supplies,1736
+2026-07-12,Travel,IndiGo,581
+2026-07-13,Cloud Infra,AWS India,5068
+2026-07-13,Payroll,Payroll - Team,21191
+2026-07-13,Marketing,Google Ads,5989
+2026-07-13,Software Tools,Datadog,3255
+2026-07-13,Office,Swiggy Office,1579
+2026-07-13,Travel,MakeMyTrip,1147
+2026-07-14,Cloud Infra,AWS India (RDS),5928
+2026-07-14,Payroll,Payroll - Team,22493
+2026-07-14,Marketing,LinkedIn Ads,5597
+2026-07-14,Office,WeWork / Office,1546
+2026-07-14,Travel,Uber for Business,1490
+2026-07-15,Cloud Infra,AWS India (RDS),5014
+2026-07-15,Payroll,Payroll - Team,22969
+2026-07-15,Marketing,Meta Ads,4397
+2026-07-15,Software Tools,Slack,2886
+2026-07-15,Office,Swiggy Office,1946
+2026-07-15,Travel,IndiGo,868
+2026-07-16,Payroll,Payroll - Team,21000
+2026-07-16,Marketing,Google Ads,4473
+2026-07-16,Software Tools,Datadog,2853
+2026-07-16,Office,Amazon Office Supplies,1984
+2026-07-16,Travel,Uber for Business,1268
+2026-07-17,Cloud Infra,AWS India (EC2),4661
+2026-07-17,Payroll,Payroll - Team,22341
+2026-07-17,Marketing,LinkedIn Ads,6081
+2026-07-17,Office,WeWork / Office,1739
+2026-07-17,Travel,Uber for Business,527
+2026-07-18,Cloud Infra,AWS India (RDS),5827
+2026-07-18,Marketing,Google Ads,4133
+2026-07-18,Software Tools,Datadog,3429
+2026-07-18,Travel,MakeMyTrip,1434
+2026-07-19,Marketing,Meta Ads,6260
+2026-07-19,Software Tools,Slack,3262
+2026-07-19,Office,WeWork / Office,2138
+2026-07-19,Travel,Uber for Business,608
+2026-07-20,Payroll,Payroll - Team,22788
+2026-07-20,Marketing,Google Ads,4645
+2026-07-20,Office,Swiggy Office,1402
+2026-07-20,Travel,IndiGo,760
+2026-07-21,Payroll,Payroll - Team,21484
+2026-07-21,Marketing,Meta Ads,4594
+2026-07-21,Office,Amazon Office Supplies,1651
+2026-07-22,Cloud Infra,AWS India,5895
+2026-07-22,Payroll,Payroll - Team,22500
+2026-07-22,Marketing,Google Ads,6170
+2026-07-22,Software Tools,Datadog,3286
+2026-07-22,Office,Swiggy Office,1789
+2026-07-23,Payroll,Payroll - Team,22238
+2026-07-23,Marketing,Meta Ads,4948
+2026-07-23,Software Tools,Notion,2555
+2026-07-23,Office,WeWork / Office,1914
+2026-07-23,Travel,Uber for Business,552
+2026-07-24,Cloud Infra,AWS India (RDS),5620
+2026-07-24,Payroll,Payroll - Team,22804
+2026-07-24,Marketing,LinkedIn Ads,3523
+2026-07-24,Software Tools,GitHub,2658
+2026-07-24,Office,Swiggy Office,1598
+2026-07-24,Travel,IndiGo,616
+2026-07-25,Marketing,Google Ads,3036
+2026-07-25,Software Tools,Slack,2622
+2026-07-25,Office,Amazon Office Supplies,1893
+2026-07-25,Travel,IndiGo,1486
+2026-07-26,Cloud Infra,AWS India (EC2),5458
+2026-07-26,Marketing,LinkedIn Ads,5296
+2026-07-26,Software Tools,Slack,2592
+2026-07-26,Office,WeWork / Office,1781
+2026-07-26,Travel,MakeMyTrip,1295
+2026-07-27,Cloud Infra,AWS India (EC2),5316
+2026-07-27,Payroll,Payroll - Team,22759
+2026-07-27,Marketing,Meta Ads,5068
+2026-07-27,Software Tools,Notion,2353
+2026-07-27,Office,WeWork / Office,1639
+2026-07-27,Travel,IndiGo,1311
+2026-07-28,Payroll,Payroll - Team,22530
+2026-07-28,Software Tools,Datadog,2627
+2026-07-28,Office,Amazon Office Supplies,1660
+2026-07-28,Travel,Uber for Business,1942
+2026-07-29,Payroll,Payroll - Team,21016
+2026-07-29,Marketing,Google Ads,2879
+2026-07-29,Software Tools,Datadog,3027
+2026-07-29,Office,WeWork / Office,1707
+2026-07-29,Travel,IndiGo,551
+2026-07-30,Payroll,Payroll - Team,22392
+2026-07-30,Marketing,Google Ads,3810
+2026-07-30,Software Tools,GitHub,2939
+2026-07-30,Office,WeWork / Office,2281
+2026-07-30,Travel,MakeMyTrip,846
+2026-07-31,Payroll,Payroll - Team,22543
+2026-07-31,Marketing,Google Ads,4617
+2026-07-31,Software Tools,Notion,3267
+2026-07-31,Travel,MakeMyTrip,431
+2026-08-01,Cloud Infra,AWS India (EC2),4541
+2026-08-01,Marketing,Meta Ads,4764
+2026-08-01,Software Tools,Datadog,2505
+2026-08-01,Travel,Uber for Business,1706
+2026-08-02,Cloud Infra,AWS India (EC2),5496
+2026-08-02,Software Tools,Datadog,2441
+2026-08-02,Office,Swiggy Office,1687
+2026-08-02,Travel,MakeMyTrip,732
+2026-08-03,Payroll,Payroll - Team,22293
+2026-08-03,Marketing,Meta Ads,3958
+2026-08-03,Software Tools,Slack,3004
+2026-08-03,Office,WeWork / Office,1418
+2026-08-03,Travel,Uber for Business,617
+2026-08-04,Payroll,Payroll - Team,22993
+2026-08-04,Marketing,Meta Ads,4729
+2026-08-04,Software Tools,Notion,3394
+2026-08-04,Office,WeWork / Office,1937
+2026-08-04,Travel,Uber for Business,1148
+2026-08-05,Cloud Infra,AWS India,4848
+2026-08-05,Payroll,Payroll - Team,21674
+2026-08-05,Marketing,Google Ads,4327
+2026-08-05,Software Tools,GitHub,2502
+2026-08-05,Office,Swiggy Office,1808
+2026-08-05,Travel,Uber for Business,1963
+2026-08-06,Cloud Infra,AWS India (RDS),5122
+2026-08-06,Payroll,Payroll - Team,22334
+2026-08-06,Marketing,Google Ads,4505
+2026-08-06,Software Tools,Notion,3235
+2026-08-06,Office,Amazon Office Supplies,1351
+2026-08-06,Travel,IndiGo,776
+2026-08-07,Cloud Infra,AWS India (RDS),5238
+2026-08-07,Payroll,Payroll - Team,21249
+2026-08-07,Marketing,LinkedIn Ads,4095
+2026-08-07,Software Tools,Notion,2173
+2026-08-08,Cloud Infra,AWS India (RDS),4863
+2026-08-08,Marketing,Meta Ads,6172
+2026-08-08,Software Tools,Slack,2567
+2026-08-08,Office,Amazon Office Supplies,1595
+2026-08-08,Travel,Uber for Business,1018
+2026-08-09,Cloud Infra,AWS India (RDS),4552
+2026-08-09,Marketing,Google Ads,5550
+2026-08-09,Software Tools,GitHub,3261
+2026-08-09,Office,Swiggy Office,1717
+2026-08-10,Cloud Infra,AWS India (EC2),5904
+2026-08-10,Payroll,Payroll - Team,22985
+2026-08-10,Marketing,Google Ads,6300
+2026-08-10,Office,Amazon Office Supplies,1369
+2026-08-10,Travel,MakeMyTrip,1845
+2026-08-11,Cloud Infra,AWS India (RDS),5787
+2026-08-11,Payroll,Payroll - Team,21188
+2026-08-11,Marketing,Meta Ads,3351
+2026-08-11,Software Tools,Slack,3233
+2026-08-11,Office,Swiggy Office,1307
+2026-08-11,Travel,IndiGo,759
+2026-08-12,Cloud Infra,AWS India (EC2),5594
+2026-08-12,Payroll,Payroll - Team,21415
+2026-08-12,Marketing,LinkedIn Ads,5611
+2026-08-12,Software Tools,Datadog,2372
+2026-08-12,Office,Swiggy Office,1564
+2026-08-12,Travel,MakeMyTrip,1063
+2026-08-13,Cloud Infra,AWS India,5670
+2026-08-13,Payroll,Payroll - Team,22821
+2026-08-13,Marketing,Meta Ads,5847
+2026-08-13,Software Tools,GitHub,3096
+2026-08-13,Office,Swiggy Office,2084
+2026-08-13,Travel,IndiGo,1222
+2026-08-14,Payroll,Payroll - Team,22903
+2026-08-14,Marketing,LinkedIn Ads,6050
+2026-08-14,Office,WeWork / Office,1515
+2026-08-14,Travel,MakeMyTrip,407
+2026-08-15,Cloud Infra,AWS India,5434
+2026-08-15,Marketing,LinkedIn Ads,3733
+2026-08-15,Software Tools,Datadog,2294
+2026-08-15,Office,WeWork / Office,1266
+2026-08-16,Cloud Infra,AWS India (RDS),4653
+2026-08-16,Marketing,LinkedIn Ads,4224
+2026-08-16,Software Tools,Slack,2271
+2026-08-16,Office,Swiggy Office,2117
+2026-08-17,Cloud Infra,AWS India (RDS),5200
+2026-08-17,Payroll,Payroll - Team,20936
+2026-08-17,Marketing,Google Ads,3749
+2026-08-17,Software Tools,Datadog,2437
+2026-08-17,Office,Amazon Office Supplies,1982
+2026-08-17,Travel,Uber for Business,474
+2026-08-18,Cloud Infra,AWS India (RDS),5647
+2026-08-18,Payroll,Payroll - Team,22119
+2026-08-18,Marketing,LinkedIn Ads,2857
+2026-08-18,Software Tools,GitHub,2455
+2026-08-18,Office,WeWork / Office,1333
+2026-08-18,Travel,Uber for Business,1415
+2026-08-19,Cloud Infra,AWS India,4939
+2026-08-19,Payroll,Payroll - Team,21675
+2026-08-19,Marketing,Meta Ads,3330
+2026-08-19,Software Tools,Slack,3074
+2026-08-19,Office,Swiggy Office,1328
+2026-08-20,Cloud Infra,AWS India,5654
+2026-08-20,Payroll,Payroll - Team,21594
+2026-08-20,Marketing,Meta Ads,6261
+2026-08-20,Software Tools,Slack,2151
+2026-08-20,Office,WeWork / Office,2191
+2026-08-20,Travel,MakeMyTrip,918
+2026-08-21,Cloud Infra,AWS India (EC2),5102
+2026-08-21,Payroll,Payroll - Team,22535
+2026-08-21,Marketing,Meta Ads,3373
+2026-08-21,Software Tools,Notion,3394
+2026-08-21,Office,WeWork / Office,2045
+2026-08-21,Travel,MakeMyTrip,2032
+2026-08-22,Cloud Infra,AWS India,4921
+2026-08-22,Marketing,LinkedIn Ads,3764
+2026-08-22,Software Tools,Datadog,2697
+2026-08-22,Office,Swiggy Office,1306
+2026-08-22,Travel,Uber for Business,1091
+2026-08-23,Cloud Infra,AWS India,11797
+2026-08-23,Marketing,Meta Ads,4162
+2026-08-23,Software Tools,GitHub,3051
+2026-08-23,Office,Swiggy Office,1916
+2026-08-24,Payroll,Payroll - Team,22613
+2026-08-24,Marketing,Google Ads,6118
+2026-08-24,Software Tools,Notion,3051
+2026-08-24,Office,Amazon Office Supplies,2084
+2026-08-24,Travel,IndiGo,976
+2026-08-25,Cloud Infra,AWS India,10196
+2026-08-25,Payroll,Payroll - Team,20957
+2026-08-25,Marketing,Meta Ads,4093
+2026-08-25,Office,WeWork / Office,2020
+2026-08-25,Travel,IndiGo,840
+2026-08-26,Cloud Infra,AWS India,10097
+2026-08-26,Payroll,Payroll - Team,21894
+2026-08-26,Marketing,LinkedIn Ads,5618
+2026-08-26,Software Tools,Notion,3093
+2026-08-26,Office,Amazon Office Supplies,2179
+2026-08-26,Travel,MakeMyTrip,1536
+2026-08-27,Cloud Infra,AWS India,11679
+2026-08-27,Payroll,Payroll - Team,23067
+2026-08-27,Marketing,LinkedIn Ads,4478
+2026-08-27,Software Tools,Slack,2616
+2026-08-27,Office,Swiggy Office,1353
+2026-08-27,Travel,IndiGo,1564
+2026-08-28,Cloud Infra,AWS India (RDS),12926
+2026-08-28,Payroll,Payroll - Team,21062
+2026-08-28,Marketing,Meta Ads,4320
+2026-08-28,Software Tools,Slack,2280
+2026-08-28,Office,Amazon Office Supplies,1399
+2026-08-28,Travel,MakeMyTrip,453
+2026-08-29,Cloud Infra,AWS India,11551
+2026-08-29,Marketing,LinkedIn Ads,5254
+2026-08-29,Software Tools,Notion,2826
+2026-08-29,Office,Amazon Office Supplies,1531
+2026-08-29,Travel,Uber for Business,821
+2026-08-30,Cloud Infra,AWS India (RDS),12710
+2026-08-30,Marketing,Meta Ads,4831
+2026-08-30,Software Tools,Notion,3022
+2026-08-30,Office,WeWork / Office,1869
+2026-08-31,Cloud Infra,AWS India (EC2),13945
+2026-08-31,Payroll,Payroll - Team,22332
+2026-08-31,Marketing,Meta Ads,2809
+2026-08-31,Software Tools,Notion,2999
+2026-08-31,Office,Amazon Office Supplies,2129
+2026-08-31,Travel,Uber for Business,1122
+2026-09-01,Payroll,Payroll - Team,21867
+2026-09-01,Marketing,Google Ads,3925
+2026-09-01,Software Tools,Notion,3106
+2026-09-01,Office,Swiggy Office,1401
+2026-09-01,Travel,MakeMyTrip,538

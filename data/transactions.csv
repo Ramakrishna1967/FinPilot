@@ -1,0 +1,652 @@
+date,description,category,amount
+2026-06-04,IN - Acme Subscriptions (MRR),Revenue,26870
+2026-06-04,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5260
+2026-06-04,OUT - Payroll - Team [Payroll],Payroll,-22969
+2026-06-04,OUT - Meta Ads [Marketing],Marketing,-2952
+2026-06-04,OUT - GitHub [Software Tools],Software Tools,-2972
+2026-06-04,OUT - Swiggy Office [Office],Office,-1584
+2026-06-04,OUT - Uber for Business [Travel],Travel,-908
+2026-06-05,IN - Acme Subscriptions (MRR),Revenue,24305
+2026-06-05,IN - Enterprise Licenses,Revenue,10604
+2026-06-05,IN - Professional Services,Revenue,2020
+2026-06-05,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-4619
+2026-06-05,OUT - Payroll - Team [Payroll],Payroll,-22363
+2026-06-05,OUT - Meta Ads [Marketing],Marketing,-5950
+2026-06-05,OUT - GitHub [Software Tools],Software Tools,-2669
+2026-06-05,OUT - Amazon Office Supplies [Office],Office,-1487
+2026-06-05,OUT - IndiGo [Travel],Travel,-901
+2026-06-06,IN - Acme Subscriptions (MRR),Revenue,8953
+2026-06-06,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-4753
+2026-06-06,OUT - Meta Ads [Marketing],Marketing,-6155
+2026-06-06,OUT - Notion [Software Tools],Software Tools,-2219
+2026-06-06,OUT - IndiGo [Travel],Travel,-755
+2026-06-07,IN - Acme Subscriptions (MRR),Revenue,9148
+2026-06-07,OUT - AWS India [Cloud Infra],Cloud Infra,-4731
+2026-06-07,OUT - GitHub [Software Tools],Software Tools,-2956
+2026-06-07,OUT - Amazon Office Supplies [Office],Office,-2217
+2026-06-07,OUT - IndiGo [Travel],Travel,-1530
+2026-06-08,IN - Acme Subscriptions (MRR),Revenue,27079
+2026-06-08,IN - Enterprise Licenses,Revenue,6519
+2026-06-08,IN - Professional Services,Revenue,5515
+2026-06-08,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4650
+2026-06-08,OUT - Payroll - Team [Payroll],Payroll,-20912
+2026-06-08,OUT - Meta Ads [Marketing],Marketing,-3488
+2026-06-08,OUT - Slack [Software Tools],Software Tools,-2170
+2026-06-08,OUT - WeWork / Office [Office],Office,-1391
+2026-06-08,OUT - Uber for Business [Travel],Travel,-1482
+2026-06-09,IN - Acme Subscriptions (MRR),Revenue,23073
+2026-06-09,IN - Enterprise Licenses,Revenue,10855
+2026-06-09,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5902
+2026-06-09,OUT - Payroll - Team [Payroll],Payroll,-22248
+2026-06-09,OUT - Google Ads [Marketing],Marketing,-4672
+2026-06-09,OUT - Notion [Software Tools],Software Tools,-2765
+2026-06-09,OUT - Swiggy Office [Office],Office,-2167
+2026-06-09,OUT - Uber for Business [Travel],Travel,-1236
+2026-06-10,IN - Acme Subscriptions (MRR),Revenue,24041
+2026-06-10,IN - Enterprise Licenses,Revenue,7590
+2026-06-10,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5106
+2026-06-10,OUT - Payroll - Team [Payroll],Payroll,-21529
+2026-06-10,OUT - Google Ads [Marketing],Marketing,-5915
+2026-06-10,OUT - Slack [Software Tools],Software Tools,-2424
+2026-06-10,OUT - Swiggy Office [Office],Office,-1329
+2026-06-10,OUT - MakeMyTrip [Travel],Travel,-1143
+2026-06-11,IN - Acme Subscriptions (MRR),Revenue,23703
+2026-06-11,IN - Enterprise Licenses,Revenue,10026
+2026-06-11,IN - Professional Services,Revenue,5150
+2026-06-11,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5075
+2026-06-11,OUT - Payroll - Team [Payroll],Payroll,-22981
+2026-06-11,OUT - LinkedIn Ads [Marketing],Marketing,-5456
+2026-06-11,OUT - Notion [Software Tools],Software Tools,-3420
+2026-06-11,OUT - Swiggy Office [Office],Office,-2182
+2026-06-11,OUT - Uber for Business [Travel],Travel,-1594
+2026-06-12,IN - Acme Subscriptions (MRR),Revenue,26506
+2026-06-12,IN - Enterprise Licenses,Revenue,7991
+2026-06-12,IN - Professional Services,Revenue,5641
+2026-06-12,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5182
+2026-06-12,OUT - Payroll - Team [Payroll],Payroll,-21859
+2026-06-12,OUT - LinkedIn Ads [Marketing],Marketing,-5108
+2026-06-12,OUT - Slack [Software Tools],Software Tools,-3277
+2026-06-12,OUT - Swiggy Office [Office],Office,-1837
+2026-06-12,OUT - MakeMyTrip [Travel],Travel,-1474
+2026-06-13,IN - Acme Subscriptions (MRR),Revenue,9471
+2026-06-13,IN - Enterprise Licenses,Revenue,3434
+2026-06-13,IN - Professional Services,Revenue,645
+2026-06-13,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-4632
+2026-06-13,OUT - LinkedIn Ads [Marketing],Marketing,-3637
+2026-06-13,OUT - Datadog [Software Tools],Software Tools,-2558
+2026-06-13,OUT - Swiggy Office [Office],Office,-2287
+2026-06-13,OUT - MakeMyTrip [Travel],Travel,-498
+2026-06-14,IN - Acme Subscriptions (MRR),Revenue,8619
+2026-06-14,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-4501
+2026-06-14,OUT - Meta Ads [Marketing],Marketing,-2947
+2026-06-14,OUT - Uber for Business [Travel],Travel,-1770
+2026-06-15,IN - Acme Subscriptions (MRR),Revenue,24689
+2026-06-15,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4617
+2026-06-15,OUT - Payroll - Team [Payroll],Payroll,-21152
+2026-06-15,OUT - LinkedIn Ads [Marketing],Marketing,-3622
+2026-06-15,OUT - GitHub [Software Tools],Software Tools,-2950
+2026-06-15,OUT - Swiggy Office [Office],Office,-1437
+2026-06-16,IN - Acme Subscriptions (MRR),Revenue,27276
+2026-06-16,OUT - Payroll - Team [Payroll],Payroll,-21586
+2026-06-16,OUT - Google Ads [Marketing],Marketing,-5274
+2026-06-16,OUT - Slack [Software Tools],Software Tools,-3263
+2026-06-16,OUT - Uber for Business [Travel],Travel,-1788
+2026-06-17,IN - Acme Subscriptions (MRR),Revenue,24607
+2026-06-17,IN - Professional Services,Revenue,4792
+2026-06-17,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5662
+2026-06-17,OUT - Payroll - Team [Payroll],Payroll,-22622
+2026-06-17,OUT - Google Ads [Marketing],Marketing,-5081
+2026-06-17,OUT - Datadog [Software Tools],Software Tools,-2578
+2026-06-17,OUT - Swiggy Office [Office],Office,-1374
+2026-06-17,OUT - Uber for Business [Travel],Travel,-1752
+2026-06-18,IN - Acme Subscriptions (MRR),Revenue,27179
+2026-06-18,IN - Professional Services,Revenue,2429
+2026-06-18,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4695
+2026-06-18,OUT - Payroll - Team [Payroll],Payroll,-23024
+2026-06-18,OUT - LinkedIn Ads [Marketing],Marketing,-6011
+2026-06-18,OUT - Notion [Software Tools],Software Tools,-3256
+2026-06-18,OUT - WeWork / Office [Office],Office,-1525
+2026-06-18,OUT - IndiGo [Travel],Travel,-1117
+2026-06-19,IN - Acme Subscriptions (MRR),Revenue,25753
+2026-06-19,IN - Enterprise Licenses,Revenue,10465
+2026-06-19,IN - Professional Services,Revenue,4984
+2026-06-19,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5462
+2026-06-19,OUT - Payroll - Team [Payroll],Payroll,-20963
+2026-06-19,OUT - LinkedIn Ads [Marketing],Marketing,-3464
+2026-06-19,OUT - Notion [Software Tools],Software Tools,-3332
+2026-06-19,OUT - WeWork / Office [Office],Office,-1818
+2026-06-20,IN - Acme Subscriptions (MRR),Revenue,10059
+2026-06-20,IN - Enterprise Licenses,Revenue,2345
+2026-06-20,OUT - AWS India [Cloud Infra],Cloud Infra,-5182
+2026-06-20,OUT - LinkedIn Ads [Marketing],Marketing,-5025
+2026-06-20,OUT - Notion [Software Tools],Software Tools,-2124
+2026-06-20,OUT - Swiggy Office [Office],Office,-2007
+2026-06-20,OUT - Uber for Business [Travel],Travel,-980
+2026-06-21,IN - Acme Subscriptions (MRR),Revenue,8894
+2026-06-21,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5084
+2026-06-21,OUT - LinkedIn Ads [Marketing],Marketing,-3967
+2026-06-21,OUT - GitHub [Software Tools],Software Tools,-2452
+2026-06-21,OUT - Amazon Office Supplies [Office],Office,-1601
+2026-06-21,OUT - MakeMyTrip [Travel],Travel,-1640
+2026-06-22,IN - Acme Subscriptions (MRR),Revenue,29454
+2026-06-22,IN - Enterprise Licenses,Revenue,7508
+2026-06-22,IN - Professional Services,Revenue,3583
+2026-06-22,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5572
+2026-06-22,OUT - Payroll - Team [Payroll],Payroll,-22494
+2026-06-22,OUT - LinkedIn Ads [Marketing],Marketing,-5697
+2026-06-22,OUT - GitHub [Software Tools],Software Tools,-2351
+2026-06-22,OUT - WeWork / Office [Office],Office,-1397
+2026-06-22,OUT - Uber for Business [Travel],Travel,-1290
+2026-06-23,IN - Acme Subscriptions (MRR),Revenue,29311
+2026-06-23,IN - Enterprise Licenses,Revenue,7058
+2026-06-23,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5415
+2026-06-23,OUT - Payroll - Team [Payroll],Payroll,-21126
+2026-06-23,OUT - LinkedIn Ads [Marketing],Marketing,-4390
+2026-06-23,OUT - Notion [Software Tools],Software Tools,-3452
+2026-06-23,OUT - WeWork / Office [Office],Office,-1776
+2026-06-23,OUT - Uber for Business [Travel],Travel,-484
+2026-06-24,IN - Acme Subscriptions (MRR),Revenue,27086
+2026-06-24,IN - Professional Services,Revenue,6067
+2026-06-24,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4657
+2026-06-24,OUT - Payroll - Team [Payroll],Payroll,-22988
+2026-06-24,OUT - LinkedIn Ads [Marketing],Marketing,-3126
+2026-06-24,OUT - Slack [Software Tools],Software Tools,-3207
+2026-06-24,OUT - Swiggy Office [Office],Office,-1671
+2026-06-24,OUT - IndiGo [Travel],Travel,-1349
+2026-06-25,IN - Acme Subscriptions (MRR),Revenue,26083
+2026-06-25,IN - Professional Services,Revenue,4159
+2026-06-25,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5389
+2026-06-25,OUT - Payroll - Team [Payroll],Payroll,-23012
+2026-06-25,OUT - Google Ads [Marketing],Marketing,-3448
+2026-06-25,OUT - Slack [Software Tools],Software Tools,-2214
+2026-06-25,OUT - WeWork / Office [Office],Office,-1341
+2026-06-25,OUT - IndiGo [Travel],Travel,-1518
+2026-06-26,IN - Acme Subscriptions (MRR),Revenue,24135
+2026-06-26,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4781
+2026-06-26,OUT - Payroll - Team [Payroll],Payroll,-21522
+2026-06-26,OUT - Slack [Software Tools],Software Tools,-2470
+2026-06-26,OUT - Amazon Office Supplies [Office],Office,-1848
+2026-06-26,OUT - MakeMyTrip [Travel],Travel,-806
+2026-06-27,IN - Acme Subscriptions (MRR),Revenue,9666
+2026-06-27,IN - Enterprise Licenses,Revenue,2994
+2026-06-27,OUT - Meta Ads [Marketing],Marketing,-3807
+2026-06-27,OUT - Datadog [Software Tools],Software Tools,-3390
+2026-06-27,OUT - Amazon Office Supplies [Office],Office,-2004
+2026-06-27,OUT - Uber for Business [Travel],Travel,-817
+2026-06-28,IN - Acme Subscriptions (MRR),Revenue,9124
+2026-06-28,IN - Enterprise Licenses,Revenue,3345
+2026-06-28,IN - Professional Services,Revenue,2070
+2026-06-28,OUT - AWS India [Cloud Infra],Cloud Infra,-4545
+2026-06-28,OUT - Meta Ads [Marketing],Marketing,-5344
+2026-06-28,OUT - GitHub [Software Tools],Software Tools,-2228
+2026-06-28,OUT - Swiggy Office [Office],Office,-1986
+2026-06-28,OUT - MakeMyTrip [Travel],Travel,-1642
+2026-06-29,IN - Acme Subscriptions (MRR),Revenue,23717
+2026-06-29,IN - Enterprise Licenses,Revenue,10990
+2026-06-29,IN - Professional Services,Revenue,2977
+2026-06-29,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5436
+2026-06-29,OUT - Payroll - Team [Payroll],Payroll,-21299
+2026-06-29,OUT - Google Ads [Marketing],Marketing,-4470
+2026-06-29,OUT - Notion [Software Tools],Software Tools,-2672
+2026-06-29,OUT - Swiggy Office [Office],Office,-2186
+2026-06-29,OUT - Uber for Business [Travel],Travel,-1192
+2026-06-30,IN - Acme Subscriptions (MRR),Revenue,27811
+2026-06-30,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5689
+2026-06-30,OUT - Payroll - Team [Payroll],Payroll,-20981
+2026-06-30,OUT - LinkedIn Ads [Marketing],Marketing,-3864
+2026-06-30,OUT - GitHub [Software Tools],Software Tools,-3255
+2026-06-30,OUT - Swiggy Office [Office],Office,-1846
+2026-07-01,IN - Acme Subscriptions (MRR),Revenue,26637
+2026-07-01,IN - Enterprise Licenses,Revenue,12828
+2026-07-01,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5391
+2026-07-01,OUT - Payroll - Team [Payroll],Payroll,-22276
+2026-07-01,OUT - LinkedIn Ads [Marketing],Marketing,-4677
+2026-07-01,OUT - GitHub [Software Tools],Software Tools,-3078
+2026-07-01,OUT - Uber for Business [Travel],Travel,-1703
+2026-07-02,IN - Acme Subscriptions (MRR),Revenue,26974
+2026-07-02,IN - Professional Services,Revenue,5994
+2026-07-02,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5279
+2026-07-02,OUT - Payroll - Team [Payroll],Payroll,-21798
+2026-07-02,OUT - LinkedIn Ads [Marketing],Marketing,-5987
+2026-07-02,OUT - Slack [Software Tools],Software Tools,-3007
+2026-07-02,OUT - Amazon Office Supplies [Office],Office,-2034
+2026-07-02,OUT - IndiGo [Travel],Travel,-1058
+2026-07-03,IN - Acme Subscriptions (MRR),Revenue,25699
+2026-07-03,IN - Enterprise Licenses,Revenue,10367
+2026-07-03,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4800
+2026-07-03,OUT - Payroll - Team [Payroll],Payroll,-21218
+2026-07-03,OUT - Google Ads [Marketing],Marketing,-4530
+2026-07-03,OUT - Datadog [Software Tools],Software Tools,-2487
+2026-07-03,OUT - Swiggy Office [Office],Office,-2111
+2026-07-03,OUT - IndiGo [Travel],Travel,-835
+2026-07-04,IN - Acme Subscriptions (MRR),Revenue,10060
+2026-07-04,IN - Enterprise Licenses,Revenue,4189
+2026-07-04,IN - Professional Services,Revenue,583
+2026-07-04,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5325
+2026-07-04,OUT - Meta Ads [Marketing],Marketing,-3235
+2026-07-04,OUT - Datadog [Software Tools],Software Tools,-2565
+2026-07-04,OUT - WeWork / Office [Office],Office,-1608
+2026-07-04,OUT - IndiGo [Travel],Travel,-761
+2026-07-05,IN - Acme Subscriptions (MRR),Revenue,9076
+2026-07-05,IN - Professional Services,Revenue,2120
+2026-07-05,OUT - AWS India [Cloud Infra],Cloud Infra,-5630
+2026-07-05,OUT - LinkedIn Ads [Marketing],Marketing,-4403
+2026-07-05,OUT - Slack [Software Tools],Software Tools,-3029
+2026-07-05,OUT - Amazon Office Supplies [Office],Office,-1300
+2026-07-05,OUT - MakeMyTrip [Travel],Travel,-918
+2026-07-06,IN - Acme Subscriptions (MRR),Revenue,29267
+2026-07-06,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5107
+2026-07-06,OUT - Payroll - Team [Payroll],Payroll,-22903
+2026-07-06,OUT - Meta Ads [Marketing],Marketing,-4176
+2026-07-06,OUT - Notion [Software Tools],Software Tools,-2205
+2026-07-06,OUT - Amazon Office Supplies [Office],Office,-2008
+2026-07-07,IN - Acme Subscriptions (MRR),Revenue,29607
+2026-07-07,IN - Enterprise Licenses,Revenue,5503
+2026-07-07,IN - Professional Services,Revenue,2017
+2026-07-07,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5472
+2026-07-07,OUT - Payroll - Team [Payroll],Payroll,-21736
+2026-07-07,OUT - LinkedIn Ads [Marketing],Marketing,-5895
+2026-07-07,OUT - GitHub [Software Tools],Software Tools,-2150
+2026-07-07,OUT - Swiggy Office [Office],Office,-1999
+2026-07-07,OUT - IndiGo [Travel],Travel,-1615
+2026-07-08,IN - Acme Subscriptions (MRR),Revenue,28879
+2026-07-08,IN - Enterprise Licenses,Revenue,5912
+2026-07-08,IN - Professional Services,Revenue,4431
+2026-07-08,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5606
+2026-07-08,OUT - Payroll - Team [Payroll],Payroll,-22820
+2026-07-08,OUT - Google Ads [Marketing],Marketing,-3778
+2026-07-08,OUT - Swiggy Office [Office],Office,-1577
+2026-07-08,OUT - IndiGo [Travel],Travel,-770
+2026-07-09,IN - Acme Subscriptions (MRR),Revenue,25679
+2026-07-09,IN - Enterprise Licenses,Revenue,8696
+2026-07-09,OUT - AWS India [Cloud Infra],Cloud Infra,-5656
+2026-07-09,OUT - Payroll - Team [Payroll],Payroll,-21285
+2026-07-09,OUT - Meta Ads [Marketing],Marketing,-3567
+2026-07-09,OUT - Notion [Software Tools],Software Tools,-2746
+2026-07-09,OUT - Swiggy Office [Office],Office,-1980
+2026-07-09,OUT - MakeMyTrip [Travel],Travel,-1498
+2026-07-10,IN - Acme Subscriptions (MRR),Revenue,27505
+2026-07-10,IN - Enterprise Licenses,Revenue,6613
+2026-07-10,OUT - Payroll - Team [Payroll],Payroll,-22980
+2026-07-10,OUT - LinkedIn Ads [Marketing],Marketing,-4228
+2026-07-10,OUT - Datadog [Software Tools],Software Tools,-2523
+2026-07-10,OUT - Swiggy Office [Office],Office,-1375
+2026-07-10,OUT - Uber for Business [Travel],Travel,-1326
+2026-07-11,IN - Acme Subscriptions (MRR),Revenue,10684
+2026-07-11,IN - Enterprise Licenses,Revenue,3101
+2026-07-11,IN - Professional Services,Revenue,801
+2026-07-11,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5946
+2026-07-11,OUT - Meta Ads [Marketing],Marketing,-2729
+2026-07-11,OUT - Datadog [Software Tools],Software Tools,-3463
+2026-07-11,OUT - WeWork / Office [Office],Office,-2235
+2026-07-11,OUT - Uber for Business [Travel],Travel,-952
+2026-07-12,IN - Acme Subscriptions (MRR),Revenue,8929
+2026-07-12,IN - Professional Services,Revenue,995
+2026-07-12,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4811
+2026-07-12,OUT - Google Ads [Marketing],Marketing,-5151
+2026-07-12,OUT - GitHub [Software Tools],Software Tools,-3365
+2026-07-12,OUT - Amazon Office Supplies [Office],Office,-1736
+2026-07-12,OUT - IndiGo [Travel],Travel,-581
+2026-07-13,IN - Acme Subscriptions (MRR),Revenue,25515
+2026-07-13,IN - Professional Services,Revenue,2839
+2026-07-13,OUT - AWS India [Cloud Infra],Cloud Infra,-5068
+2026-07-13,OUT - Payroll - Team [Payroll],Payroll,-21191
+2026-07-13,OUT - Google Ads [Marketing],Marketing,-5989
+2026-07-13,OUT - Datadog [Software Tools],Software Tools,-3255
+2026-07-13,OUT - Swiggy Office [Office],Office,-1579
+2026-07-13,OUT - MakeMyTrip [Travel],Travel,-1147
+2026-07-14,IN - Acme Subscriptions (MRR),Revenue,30051
+2026-07-14,IN - Enterprise Licenses,Revenue,5412
+2026-07-14,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5928
+2026-07-14,OUT - Payroll - Team [Payroll],Payroll,-22493
+2026-07-14,OUT - LinkedIn Ads [Marketing],Marketing,-5597
+2026-07-14,OUT - WeWork / Office [Office],Office,-1546
+2026-07-14,OUT - Uber for Business [Travel],Travel,-1490
+2026-07-15,IN - Acme Subscriptions (MRR),Revenue,28533
+2026-07-15,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5014
+2026-07-15,OUT - Payroll - Team [Payroll],Payroll,-22969
+2026-07-15,OUT - Meta Ads [Marketing],Marketing,-4397
+2026-07-15,OUT - Slack [Software Tools],Software Tools,-2886
+2026-07-15,OUT - Swiggy Office [Office],Office,-1946
+2026-07-15,OUT - IndiGo [Travel],Travel,-868
+2026-07-16,IN - Acme Subscriptions (MRR),Revenue,30326
+2026-07-16,IN - Enterprise Licenses,Revenue,9244
+2026-07-16,IN - Professional Services,Revenue,5783
+2026-07-16,OUT - Payroll - Team [Payroll],Payroll,-21000
+2026-07-16,OUT - Google Ads [Marketing],Marketing,-4473
+2026-07-16,OUT - Datadog [Software Tools],Software Tools,-2853
+2026-07-16,OUT - Amazon Office Supplies [Office],Office,-1984
+2026-07-16,OUT - Uber for Business [Travel],Travel,-1268
+2026-07-17,IN - Acme Subscriptions (MRR),Revenue,25448
+2026-07-17,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-4661
+2026-07-17,OUT - Payroll - Team [Payroll],Payroll,-22341
+2026-07-17,OUT - LinkedIn Ads [Marketing],Marketing,-6081
+2026-07-17,OUT - WeWork / Office [Office],Office,-1739
+2026-07-17,OUT - Uber for Business [Travel],Travel,-527
+2026-07-18,IN - Acme Subscriptions (MRR),Revenue,9457
+2026-07-18,IN - Enterprise Licenses,Revenue,4099
+2026-07-18,IN - Professional Services,Revenue,2343
+2026-07-18,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5827
+2026-07-18,OUT - Google Ads [Marketing],Marketing,-4133
+2026-07-18,OUT - Datadog [Software Tools],Software Tools,-3429
+2026-07-18,OUT - MakeMyTrip [Travel],Travel,-1434
+2026-07-19,IN - Acme Subscriptions (MRR),Revenue,8716
+2026-07-19,OUT - Meta Ads [Marketing],Marketing,-6260
+2026-07-19,OUT - Slack [Software Tools],Software Tools,-3262
+2026-07-19,OUT - WeWork / Office [Office],Office,-2138
+2026-07-19,OUT - Uber for Business [Travel],Travel,-608
+2026-07-20,IN - Acme Subscriptions (MRR),Revenue,29990
+2026-07-20,OUT - Payroll - Team [Payroll],Payroll,-22788
+2026-07-20,OUT - Google Ads [Marketing],Marketing,-4645
+2026-07-20,OUT - Swiggy Office [Office],Office,-1402
+2026-07-20,OUT - IndiGo [Travel],Travel,-760
+2026-07-21,IN - Acme Subscriptions (MRR),Revenue,27289
+2026-07-21,OUT - Payroll - Team [Payroll],Payroll,-21484
+2026-07-21,OUT - Meta Ads [Marketing],Marketing,-4594
+2026-07-21,OUT - Amazon Office Supplies [Office],Office,-1651
+2026-07-22,IN - Acme Subscriptions (MRR),Revenue,26003
+2026-07-22,IN - Enterprise Licenses,Revenue,9031
+2026-07-22,IN - Professional Services,Revenue,4513
+2026-07-22,OUT - AWS India [Cloud Infra],Cloud Infra,-5895
+2026-07-22,OUT - Payroll - Team [Payroll],Payroll,-22500
+2026-07-22,OUT - Google Ads [Marketing],Marketing,-6170
+2026-07-22,OUT - Datadog [Software Tools],Software Tools,-3286
+2026-07-22,OUT - Swiggy Office [Office],Office,-1789
+2026-07-23,IN - Acme Subscriptions (MRR),Revenue,24711
+2026-07-23,IN - Enterprise Licenses,Revenue,12810
+2026-07-23,IN - Professional Services,Revenue,6442
+2026-07-23,OUT - Payroll - Team [Payroll],Payroll,-22238
+2026-07-23,OUT - Meta Ads [Marketing],Marketing,-4948
+2026-07-23,OUT - Notion [Software Tools],Software Tools,-2555
+2026-07-23,OUT - WeWork / Office [Office],Office,-1914
+2026-07-23,OUT - Uber for Business [Travel],Travel,-552
+2026-07-24,IN - Acme Subscriptions (MRR),Revenue,30054
+2026-07-24,IN - Professional Services,Revenue,2801
+2026-07-24,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5620
+2026-07-24,OUT - Payroll - Team [Payroll],Payroll,-22804
+2026-07-24,OUT - LinkedIn Ads [Marketing],Marketing,-3523
+2026-07-24,OUT - GitHub [Software Tools],Software Tools,-2658
+2026-07-24,OUT - Swiggy Office [Office],Office,-1598
+2026-07-24,OUT - IndiGo [Travel],Travel,-616
+2026-07-25,IN - Acme Subscriptions (MRR),Revenue,9488
+2026-07-25,OUT - Google Ads [Marketing],Marketing,-3036
+2026-07-25,OUT - Slack [Software Tools],Software Tools,-2622
+2026-07-25,OUT - Amazon Office Supplies [Office],Office,-1893
+2026-07-25,OUT - IndiGo [Travel],Travel,-1486
+2026-07-26,IN - Acme Subscriptions (MRR),Revenue,10864
+2026-07-26,IN - Professional Services,Revenue,1416
+2026-07-26,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5458
+2026-07-26,OUT - LinkedIn Ads [Marketing],Marketing,-5296
+2026-07-26,OUT - Slack [Software Tools],Software Tools,-2592
+2026-07-26,OUT - WeWork / Office [Office],Office,-1781
+2026-07-26,OUT - MakeMyTrip [Travel],Travel,-1295
+2026-07-27,IN - Acme Subscriptions (MRR),Revenue,27323
+2026-07-27,IN - Enterprise Licenses,Revenue,14410
+2026-07-27,IN - Professional Services,Revenue,5405
+2026-07-27,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5316
+2026-07-27,OUT - Payroll - Team [Payroll],Payroll,-22759
+2026-07-27,OUT - Meta Ads [Marketing],Marketing,-5068
+2026-07-27,OUT - Notion [Software Tools],Software Tools,-2353
+2026-07-27,OUT - WeWork / Office [Office],Office,-1639
+2026-07-27,OUT - IndiGo [Travel],Travel,-1311
+2026-07-28,IN - Acme Subscriptions (MRR),Revenue,25563
+2026-07-28,IN - Professional Services,Revenue,4695
+2026-07-28,OUT - Payroll - Team [Payroll],Payroll,-22530
+2026-07-28,OUT - Datadog [Software Tools],Software Tools,-2627
+2026-07-28,OUT - Amazon Office Supplies [Office],Office,-1660
+2026-07-28,OUT - Uber for Business [Travel],Travel,-1942
+2026-07-29,IN - Acme Subscriptions (MRR),Revenue,28189
+2026-07-29,IN - Enterprise Licenses,Revenue,5382
+2026-07-29,IN - Professional Services,Revenue,4308
+2026-07-29,OUT - Payroll - Team [Payroll],Payroll,-21016
+2026-07-29,OUT - Google Ads [Marketing],Marketing,-2879
+2026-07-29,OUT - Datadog [Software Tools],Software Tools,-3027
+2026-07-29,OUT - WeWork / Office [Office],Office,-1707
+2026-07-29,OUT - IndiGo [Travel],Travel,-551
+2026-07-30,IN - Acme Subscriptions (MRR),Revenue,30307
+2026-07-30,IN - Professional Services,Revenue,2133
+2026-07-30,OUT - Payroll - Team [Payroll],Payroll,-22392
+2026-07-30,OUT - Google Ads [Marketing],Marketing,-3810
+2026-07-30,OUT - GitHub [Software Tools],Software Tools,-2939
+2026-07-30,OUT - WeWork / Office [Office],Office,-2281
+2026-07-30,OUT - MakeMyTrip [Travel],Travel,-846
+2026-07-31,IN - Acme Subscriptions (MRR),Revenue,25867
+2026-07-31,IN - Enterprise Licenses,Revenue,11381
+2026-07-31,OUT - Payroll - Team [Payroll],Payroll,-22543
+2026-07-31,OUT - Google Ads [Marketing],Marketing,-4617
+2026-07-31,OUT - Notion [Software Tools],Software Tools,-3267
+2026-07-31,OUT - MakeMyTrip [Travel],Travel,-431
+2026-08-01,IN - Acme Subscriptions (MRR),Revenue,8909
+2026-08-01,IN - Enterprise Licenses,Revenue,2532
+2026-08-01,IN - Professional Services,Revenue,1724
+2026-08-01,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-4541
+2026-08-01,OUT - Meta Ads [Marketing],Marketing,-4764
+2026-08-01,OUT - Datadog [Software Tools],Software Tools,-2505
+2026-08-01,OUT - Uber for Business [Travel],Travel,-1706
+2026-08-02,IN - Acme Subscriptions (MRR),Revenue,9626
+2026-08-02,IN - Enterprise Licenses,Revenue,3475
+2026-08-02,IN - Professional Services,Revenue,974
+2026-08-02,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5496
+2026-08-02,OUT - Datadog [Software Tools],Software Tools,-2441
+2026-08-02,OUT - Swiggy Office [Office],Office,-1687
+2026-08-02,OUT - MakeMyTrip [Travel],Travel,-732
+2026-08-03,IN - Acme Subscriptions (MRR),Revenue,29537
+2026-08-03,OUT - Payroll - Team [Payroll],Payroll,-22293
+2026-08-03,OUT - Meta Ads [Marketing],Marketing,-3958
+2026-08-03,OUT - Slack [Software Tools],Software Tools,-3004
+2026-08-03,OUT - WeWork / Office [Office],Office,-1418
+2026-08-03,OUT - Uber for Business [Travel],Travel,-617
+2026-08-04,IN - Acme Subscriptions (MRR),Revenue,29273
+2026-08-04,OUT - Payroll - Team [Payroll],Payroll,-22993
+2026-08-04,OUT - Meta Ads [Marketing],Marketing,-4729
+2026-08-04,OUT - Notion [Software Tools],Software Tools,-3394
+2026-08-04,OUT - WeWork / Office [Office],Office,-1937
+2026-08-04,OUT - Uber for Business [Travel],Travel,-1148
+2026-08-05,IN - Acme Subscriptions (MRR),Revenue,29851
+2026-08-05,IN - Professional Services,Revenue,6921
+2026-08-05,OUT - AWS India [Cloud Infra],Cloud Infra,-4848
+2026-08-05,OUT - Payroll - Team [Payroll],Payroll,-21674
+2026-08-05,OUT - Google Ads [Marketing],Marketing,-4327
+2026-08-05,OUT - GitHub [Software Tools],Software Tools,-2502
+2026-08-05,OUT - Swiggy Office [Office],Office,-1808
+2026-08-05,OUT - Uber for Business [Travel],Travel,-1963
+2026-08-06,IN - Acme Subscriptions (MRR),Revenue,31540
+2026-08-06,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5122
+2026-08-06,OUT - Payroll - Team [Payroll],Payroll,-22334
+2026-08-06,OUT - Google Ads [Marketing],Marketing,-4505
+2026-08-06,OUT - Notion [Software Tools],Software Tools,-3235
+2026-08-06,OUT - Amazon Office Supplies [Office],Office,-1351
+2026-08-06,OUT - IndiGo [Travel],Travel,-776
+2026-08-07,IN - Acme Subscriptions (MRR),Revenue,26628
+2026-08-07,IN - Enterprise Licenses,Revenue,13488
+2026-08-07,IN - Professional Services,Revenue,3662
+2026-08-07,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5238
+2026-08-07,OUT - Payroll - Team [Payroll],Payroll,-21249
+2026-08-07,OUT - LinkedIn Ads [Marketing],Marketing,-4095
+2026-08-07,OUT - Notion [Software Tools],Software Tools,-2173
+2026-08-08,IN - Acme Subscriptions (MRR),Revenue,9076
+2026-08-08,IN - Enterprise Licenses,Revenue,4120
+2026-08-08,IN - Professional Services,Revenue,2411
+2026-08-08,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4863
+2026-08-08,OUT - Meta Ads [Marketing],Marketing,-6172
+2026-08-08,OUT - Slack [Software Tools],Software Tools,-2567
+2026-08-08,OUT - Amazon Office Supplies [Office],Office,-1595
+2026-08-08,OUT - Uber for Business [Travel],Travel,-1018
+2026-08-09,IN - Acme Subscriptions (MRR),Revenue,10267
+2026-08-09,IN - Professional Services,Revenue,1156
+2026-08-09,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4552
+2026-08-09,OUT - Google Ads [Marketing],Marketing,-5550
+2026-08-09,OUT - GitHub [Software Tools],Software Tools,-3261
+2026-08-09,OUT - Swiggy Office [Office],Office,-1717
+2026-08-10,IN - Acme Subscriptions (MRR),Revenue,29433
+2026-08-10,IN - Enterprise Licenses,Revenue,6219
+2026-08-10,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5904
+2026-08-10,OUT - Payroll - Team [Payroll],Payroll,-22985
+2026-08-10,OUT - Google Ads [Marketing],Marketing,-6300
+2026-08-10,OUT - Amazon Office Supplies [Office],Office,-1369
+2026-08-10,OUT - MakeMyTrip [Travel],Travel,-1845
+2026-08-11,IN - Acme Subscriptions (MRR),Revenue,25683
+2026-08-11,IN - Enterprise Licenses,Revenue,7581
+2026-08-11,IN - Professional Services,Revenue,5502
+2026-08-11,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5787
+2026-08-11,OUT - Payroll - Team [Payroll],Payroll,-21188
+2026-08-11,OUT - Meta Ads [Marketing],Marketing,-3351
+2026-08-11,OUT - Slack [Software Tools],Software Tools,-3233
+2026-08-11,OUT - Swiggy Office [Office],Office,-1307
+2026-08-11,OUT - IndiGo [Travel],Travel,-759
+2026-08-12,IN - Acme Subscriptions (MRR),Revenue,26372
+2026-08-12,IN - Enterprise Licenses,Revenue,7508
+2026-08-12,IN - Professional Services,Revenue,6493
+2026-08-12,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5594
+2026-08-12,OUT - Payroll - Team [Payroll],Payroll,-21415
+2026-08-12,OUT - LinkedIn Ads [Marketing],Marketing,-5611
+2026-08-12,OUT - Datadog [Software Tools],Software Tools,-2372
+2026-08-12,OUT - Swiggy Office [Office],Office,-1564
+2026-08-12,OUT - MakeMyTrip [Travel],Travel,-1063
+2026-08-13,IN - Acme Subscriptions (MRR),Revenue,30788
+2026-08-13,OUT - AWS India [Cloud Infra],Cloud Infra,-5670
+2026-08-13,OUT - Payroll - Team [Payroll],Payroll,-22821
+2026-08-13,OUT - Meta Ads [Marketing],Marketing,-5847
+2026-08-13,OUT - GitHub [Software Tools],Software Tools,-3096
+2026-08-13,OUT - Swiggy Office [Office],Office,-2084
+2026-08-13,OUT - IndiGo [Travel],Travel,-1222
+2026-08-14,IN - Acme Subscriptions (MRR),Revenue,26936
+2026-08-14,IN - Professional Services,Revenue,5099
+2026-08-14,OUT - Payroll - Team [Payroll],Payroll,-22903
+2026-08-14,OUT - LinkedIn Ads [Marketing],Marketing,-6050
+2026-08-14,OUT - WeWork / Office [Office],Office,-1515
+2026-08-14,OUT - MakeMyTrip [Travel],Travel,-407
+2026-08-15,IN - Acme Subscriptions (MRR),Revenue,9404
+2026-08-15,IN - Enterprise Licenses,Revenue,3631
+2026-08-15,OUT - AWS India [Cloud Infra],Cloud Infra,-5434
+2026-08-15,OUT - LinkedIn Ads [Marketing],Marketing,-3733
+2026-08-15,OUT - Datadog [Software Tools],Software Tools,-2294
+2026-08-15,OUT - WeWork / Office [Office],Office,-1266
+2026-08-16,IN - Acme Subscriptions (MRR),Revenue,8811
+2026-08-16,IN - Professional Services,Revenue,2281
+2026-08-16,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-4653
+2026-08-16,OUT - LinkedIn Ads [Marketing],Marketing,-4224
+2026-08-16,OUT - Slack [Software Tools],Software Tools,-2271
+2026-08-16,OUT - Swiggy Office [Office],Office,-2117
+2026-08-17,IN - Acme Subscriptions (MRR),Revenue,28878
+2026-08-17,IN - Enterprise Licenses,Revenue,10704
+2026-08-17,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5200
+2026-08-17,OUT - Payroll - Team [Payroll],Payroll,-20936
+2026-08-17,OUT - Google Ads [Marketing],Marketing,-3749
+2026-08-17,OUT - Datadog [Software Tools],Software Tools,-2437
+2026-08-17,OUT - Amazon Office Supplies [Office],Office,-1982
+2026-08-17,OUT - Uber for Business [Travel],Travel,-474
+2026-08-18,IN - Acme Subscriptions (MRR),Revenue,26043
+2026-08-18,IN - Professional Services,Revenue,5964
+2026-08-18,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-5647
+2026-08-18,OUT - Payroll - Team [Payroll],Payroll,-22119
+2026-08-18,OUT - LinkedIn Ads [Marketing],Marketing,-2857
+2026-08-18,OUT - GitHub [Software Tools],Software Tools,-2455
+2026-08-18,OUT - WeWork / Office [Office],Office,-1333
+2026-08-18,OUT - Uber for Business [Travel],Travel,-1415
+2026-08-19,IN - Acme Subscriptions (MRR),Revenue,31114
+2026-08-19,IN - Enterprise Licenses,Revenue,7038
+2026-08-19,OUT - AWS India [Cloud Infra],Cloud Infra,-4939
+2026-08-19,OUT - Payroll - Team [Payroll],Payroll,-21675
+2026-08-19,OUT - Meta Ads [Marketing],Marketing,-3330
+2026-08-19,OUT - Slack [Software Tools],Software Tools,-3074
+2026-08-19,OUT - Swiggy Office [Office],Office,-1328
+2026-08-20,IN - Acme Subscriptions (MRR),Revenue,25936
+2026-08-20,IN - Enterprise Licenses,Revenue,13736
+2026-08-20,OUT - AWS India [Cloud Infra],Cloud Infra,-5654
+2026-08-20,OUT - Payroll - Team [Payroll],Payroll,-21594
+2026-08-20,OUT - Meta Ads [Marketing],Marketing,-6261
+2026-08-20,OUT - Slack [Software Tools],Software Tools,-2151
+2026-08-20,OUT - WeWork / Office [Office],Office,-2191
+2026-08-20,OUT - MakeMyTrip [Travel],Travel,-918
+2026-08-21,IN - Acme Subscriptions (MRR),Revenue,29535
+2026-08-21,IN - Professional Services,Revenue,6348
+2026-08-21,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-5102
+2026-08-21,OUT - Payroll - Team [Payroll],Payroll,-22535
+2026-08-21,OUT - Meta Ads [Marketing],Marketing,-3373
+2026-08-21,OUT - Notion [Software Tools],Software Tools,-3394
+2026-08-21,OUT - WeWork / Office [Office],Office,-2045
+2026-08-21,OUT - MakeMyTrip [Travel],Travel,-2032
+2026-08-22,IN - Acme Subscriptions (MRR),Revenue,11208
+2026-08-22,IN - Enterprise Licenses,Revenue,4810
+2026-08-22,OUT - AWS India [Cloud Infra],Cloud Infra,-4921
+2026-08-22,OUT - LinkedIn Ads [Marketing],Marketing,-3764
+2026-08-22,OUT - Datadog [Software Tools],Software Tools,-2697
+2026-08-22,OUT - Swiggy Office [Office],Office,-1306
+2026-08-22,OUT - Uber for Business [Travel],Travel,-1091
+2026-08-23,IN - Acme Subscriptions (MRR),Revenue,10642
+2026-08-23,IN - Professional Services,Revenue,2111
+2026-08-23,OUT - AWS India [Cloud Infra],Cloud Infra,-11797
+2026-08-23,OUT - Meta Ads [Marketing],Marketing,-4162
+2026-08-23,OUT - GitHub [Software Tools],Software Tools,-3051
+2026-08-23,OUT - Swiggy Office [Office],Office,-1916
+2026-08-24,IN - Acme Subscriptions (MRR),Revenue,31325
+2026-08-24,IN - Enterprise Licenses,Revenue,7647
+2026-08-24,IN - Professional Services,Revenue,2348
+2026-08-24,OUT - Payroll - Team [Payroll],Payroll,-22613
+2026-08-24,OUT - Google Ads [Marketing],Marketing,-6118
+2026-08-24,OUT - Notion [Software Tools],Software Tools,-3051
+2026-08-24,OUT - Amazon Office Supplies [Office],Office,-2084
+2026-08-24,OUT - IndiGo [Travel],Travel,-976
+2026-08-25,IN - Acme Subscriptions (MRR),Revenue,31419
+2026-08-25,IN - Enterprise Licenses,Revenue,7213
+2026-08-25,IN - Professional Services,Revenue,4226
+2026-08-25,OUT - AWS India [Cloud Infra],Cloud Infra,-10196
+2026-08-25,OUT - Payroll - Team [Payroll],Payroll,-20957
+2026-08-25,OUT - Meta Ads [Marketing],Marketing,-4093
+2026-08-25,OUT - WeWork / Office [Office],Office,-2020
+2026-08-25,OUT - IndiGo [Travel],Travel,-840
+2026-08-26,IN - Acme Subscriptions (MRR),Revenue,27527
+2026-08-26,IN - Enterprise Licenses,Revenue,7273
+2026-08-26,OUT - AWS India [Cloud Infra],Cloud Infra,-10097
+2026-08-26,OUT - Payroll - Team [Payroll],Payroll,-21894
+2026-08-26,OUT - LinkedIn Ads [Marketing],Marketing,-5618
+2026-08-26,OUT - Notion [Software Tools],Software Tools,-3093
+2026-08-26,OUT - Amazon Office Supplies [Office],Office,-2179
+2026-08-26,OUT - MakeMyTrip [Travel],Travel,-1536
+2026-08-27,IN - Acme Subscriptions (MRR),Revenue,26783
+2026-08-27,IN - Professional Services,Revenue,6940
+2026-08-27,OUT - AWS India [Cloud Infra],Cloud Infra,-11679
+2026-08-27,OUT - Payroll - Team [Payroll],Payroll,-23067
+2026-08-27,OUT - LinkedIn Ads [Marketing],Marketing,-4478
+2026-08-27,OUT - Slack [Software Tools],Software Tools,-2616
+2026-08-27,OUT - Swiggy Office [Office],Office,-1353
+2026-08-27,OUT - IndiGo [Travel],Travel,-1564
+2026-08-28,IN - Acme Subscriptions (MRR),Revenue,27412
+2026-08-28,IN - Enterprise Licenses,Revenue,9015
+2026-08-28,IN - Professional Services,Revenue,4647
+2026-08-28,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-12926
+2026-08-28,OUT - Payroll - Team [Payroll],Payroll,-21062
+2026-08-28,OUT - Meta Ads [Marketing],Marketing,-4320
+2026-08-28,OUT - Slack [Software Tools],Software Tools,-2280
+2026-08-28,OUT - Amazon Office Supplies [Office],Office,-1399
+2026-08-28,OUT - MakeMyTrip [Travel],Travel,-453
+2026-08-29,IN - Acme Subscriptions (MRR),Revenue,11213
+2026-08-29,IN - Professional Services,Revenue,959
+2026-08-29,OUT - AWS India [Cloud Infra],Cloud Infra,-11551
+2026-08-29,OUT - LinkedIn Ads [Marketing],Marketing,-5254
+2026-08-29,OUT - Notion [Software Tools],Software Tools,-2826
+2026-08-29,OUT - Amazon Office Supplies [Office],Office,-1531
+2026-08-29,OUT - Uber for Business [Travel],Travel,-821
+2026-08-30,IN - Acme Subscriptions (MRR),Revenue,11283
+2026-08-30,OUT - AWS India (RDS) [Cloud Infra],Cloud Infra,-12710
+2026-08-30,OUT - Meta Ads [Marketing],Marketing,-4831
+2026-08-30,OUT - Notion [Software Tools],Software Tools,-3022
+2026-08-30,OUT - WeWork / Office [Office],Office,-1869
+2026-08-31,IN - Acme Subscriptions (MRR),Revenue,28594
+2026-08-31,IN - Enterprise Licenses,Revenue,8182
+2026-08-31,IN - Professional Services,Revenue,4531
+2026-08-31,OUT - AWS India (EC2) [Cloud Infra],Cloud Infra,-13945
+2026-08-31,OUT - Payroll - Team [Payroll],Payroll,-22332
+2026-08-31,OUT - Meta Ads [Marketing],Marketing,-2809
+2026-08-31,OUT - Notion [Software Tools],Software Tools,-2999
+2026-08-31,OUT - Amazon Office Supplies [Office],Office,-2129
+2026-08-31,OUT - Uber for Business [Travel],Travel,-1122
+2026-09-01,IN - Acme Subscriptions (MRR),Revenue,28284
+2026-09-01,IN - Enterprise Licenses,Revenue,7599
+2026-09-01,IN - Professional Services,Revenue,1799
+2026-09-01,OUT - Payroll - Team [Payroll],Payroll,-21867
+2026-09-01,OUT - Google Ads [Marketing],Marketing,-3925
+2026-09-01,OUT - Notion [Software Tools],Software Tools,-3106
+2026-09-01,OUT - Swiggy Office [Office],Office,-1401
+2026-09-01,OUT - MakeMyTrip [Travel],Travel,-538

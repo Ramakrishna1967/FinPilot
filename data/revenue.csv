@@ -1,0 +1,190 @@
+date,source,amount
+2026-06-04,Acme Subscriptions (MRR),26870
+2026-06-05,Acme Subscriptions (MRR),24305
+2026-06-05,Enterprise Licenses,10604
+2026-06-05,Professional Services,2020
+2026-06-06,Acme Subscriptions (MRR),8953
+2026-06-07,Acme Subscriptions (MRR),9148
+2026-06-08,Acme Subscriptions (MRR),27079
+2026-06-08,Enterprise Licenses,6519
+2026-06-08,Professional Services,5515
+2026-06-09,Acme Subscriptions (MRR),23073
+2026-06-09,Enterprise Licenses,10855
+2026-06-10,Acme Subscriptions (MRR),24041
+2026-06-10,Enterprise Licenses,7590
+2026-06-11,Acme Subscriptions (MRR),23703
+2026-06-11,Enterprise Licenses,10026
+2026-06-11,Professional Services,5150
+2026-06-12,Acme Subscriptions (MRR),26506
+2026-06-12,Enterprise Licenses,7991
+2026-06-12,Professional Services,5641
+2026-06-13,Acme Subscriptions (MRR),9471
+2026-06-13,Enterprise Licenses,3434
+2026-06-13,Professional Services,645
+2026-06-14,Acme Subscriptions (MRR),8619
+2026-06-15,Acme Subscriptions (MRR),24689
+2026-06-16,Acme Subscriptions (MRR),27276
+2026-06-17,Acme Subscriptions (MRR),24607
+2026-06-17,Professional Services,4792
+2026-06-18,Acme Subscriptions (MRR),27179
+2026-06-18,Professional Services,2429
+2026-06-19,Acme Subscriptions (MRR),25753
+2026-06-19,Enterprise Licenses,10465
+2026-06-19,Professional Services,4984
+2026-06-20,Acme Subscriptions (MRR),10059
+2026-06-20,Enterprise Licenses,2345
+2026-06-21,Acme Subscriptions (MRR),8894
+2026-06-22,Acme Subscriptions (MRR),29454
+2026-06-22,Enterprise Licenses,7508
+2026-06-22,Professional Services,3583
+2026-06-23,Acme Subscriptions (MRR),29311
+2026-06-23,Enterprise Licenses,7058
+2026-06-24,Acme Subscriptions (MRR),27086
+2026-06-24,Professional Services,6067
+2026-06-25,Acme Subscriptions (MRR),26083
+2026-06-25,Professional Services,4159
+2026-06-26,Acme Subscriptions (MRR),24135
+2026-06-27,Acme Subscriptions (MRR),9666
+2026-06-27,Enterprise Licenses,2994
+2026-06-28,Acme Subscriptions (MRR),9124
+2026-06-28,Enterprise Licenses,3345
+2026-06-28,Professional Services,2070
+2026-06-29,Acme Subscriptions (MRR),23717
+2026-06-29,Enterprise Licenses,10990
+2026-06-29,Professional Services,2977
+2026-06-30,Acme Subscriptions (MRR),27811
+2026-07-01,Acme Subscriptions (MRR),26637
+2026-07-01,Enterprise Licenses,12828
+2026-07-02,Acme Subscriptions (MRR),26974
+2026-07-02,Professional Services,5994
+2026-07-03,Acme Subscriptions (MRR),25699
+2026-07-03,Enterprise Licenses,10367
+2026-07-04,Acme Subscriptions (MRR),10060
+2026-07-04,Enterprise Licenses,4189
+2026-07-04,Professional Services,583
+2026-07-05,Acme Subscriptions (MRR),9076
+2026-07-05,Professional Services,2120
+2026-07-06,Acme Subscriptions (MRR),29267
+2026-07-07,Acme Subscriptions (MRR),29607
+2026-07-07,Enterprise Licenses,5503
+2026-07-07,Professional Services,2017
+2026-07-08,Acme Subscriptions (MRR),28879
+2026-07-08,Enterprise Licenses,5912
+2026-07-08,Professional Services,4431
+2026-07-09,Acme Subscriptions (MRR),25679
+2026-07-09,Enterprise Licenses,8696
+2026-07-10,Acme Subscriptions (MRR),27505
+2026-07-10,Enterprise Licenses,6613
+2026-07-11,Acme Subscriptions (MRR),10684
+2026-07-11,Enterprise Licenses,3101
+2026-07-11,Professional Services,801
+2026-07-12,Acme Subscriptions (MRR),8929
+2026-07-12,Professional Services,995
+2026-07-13,Acme Subscriptions (MRR),25515
+2026-07-13,Professional Services,2839
+2026-07-14,Acme Subscriptions (MRR),30051
+2026-07-14,Enterprise Licenses,5412
+2026-07-15,Acme Subscriptions (MRR),28533
+2026-07-16,Acme Subscriptions (MRR),30326
+2026-07-16,Enterprise Licenses,9244
+2026-07-16,Professional Services,5783
+2026-07-17,Acme Subscriptions (MRR),25448
+2026-07-18,Acme Subscriptions (MRR),9457
+2026-07-18,Enterprise Licenses,4099
+2026-07-18,Professional Services,2343
+2026-07-19,Acme Subscriptions (MRR),8716
+2026-07-20,Acme Subscriptions (MRR),29990
+2026-07-21,Acme Subscriptions (MRR),27289
+2026-07-22,Acme Subscriptions (MRR),26003
+2026-07-22,Enterprise Licenses,9031
+2026-07-22,Professional Services,4513
+2026-07-23,Acme Subscriptions (MRR),24711
+2026-07-23,Enterprise Licenses,12810
+2026-07-23,Professional Services,6442
+2026-07-24,Acme Subscriptions (MRR),30054
+2026-07-24,Professional Services,2801
+2026-07-25,Acme Subscriptions (MRR),9488
+2026-07-26,Acme Subscriptions (MRR),10864
+2026-07-26,Professional Services,1416
+2026-07-27,Acme Subscriptions (MRR),27323
+2026-07-27,Enterprise Licenses,14410
+2026-07-27,Professional Services,5405
+2026-07-28,Acme Subscriptions (MRR),25563
+2026-07-28,Professional Services,4695
+2026-07-29,Acme Subscriptions (MRR),28189
+2026-07-29,Enterprise Licenses,5382
+2026-07-29,Professional Services,4308
+2026-07-30,Acme Subscriptions (MRR),30307
+2026-07-30,Professional Services,2133
+2026-07-31,Acme Subscriptions (MRR),25867
+2026-07-31,Enterprise Licenses,11381
+2026-08-01,Acme Subscriptions (MRR),8909
+2026-08-01,Enterprise Licenses,2532
+2026-08-01,Professional Services,1724
+2026-08-02,Acme Subscriptions (MRR),9626
+2026-08-02,Enterprise Licenses,3475
+2026-08-02,Professional Services,974
+2026-08-03,Acme Subscriptions (MRR),29537
+2026-08-04,Acme Subscriptions (MRR),29273
+2026-08-05,Acme Subscriptions (MRR),29851
+2026-08-05,Professional Services,6921
+2026-08-06,Acme Subscriptions (MRR),31540
+2026-08-07,Acme Subscriptions (MRR),26628
+2026-08-07,Enterprise Licenses,13488
+2026-08-07,Professional Services,3662
+2026-08-08,Acme Subscriptions (MRR),9076
+2026-08-08,Enterprise Licenses,4120
+2026-08-08,Professional Services,2411
+2026-08-09,Acme Subscriptions (MRR),10267
+2026-08-09,Professional Services,1156
+2026-08-10,Acme Subscriptions (MRR),29433
+2026-08-10,Enterprise Licenses,6219
+2026-08-11,Acme Subscriptions (MRR),25683
+2026-08-11,Enterprise Licenses,7581
+2026-08-11,Professional Services,5502
+2026-08-12,Acme Subscriptions (MRR),26372
+2026-08-12,Enterprise Licenses,7508
+2026-08-12,Professional Services,6493
+2026-08-13,Acme Subscriptions (MRR),30788
+2026-08-14,Acme Subscriptions (MRR),26936
+2026-08-14,Professional Services,5099
+2026-08-15,Acme Subscriptions (MRR),9404
+2026-08-15,Enterprise Licenses,3631
+2026-08-16,Acme Subscriptions (MRR),8811
+2026-08-16,Professional Services,2281
+2026-08-17,Acme Subscriptions (MRR),28878
+2026-08-17,Enterprise Licenses,10704
+2026-08-18,Acme Subscriptions (MRR),26043
+2026-08-18,Professional Services,5964
+2026-08-19,Acme Subscriptions (MRR),31114
+2026-08-19,Enterprise Licenses,7038
+2026-08-20,Acme Subscriptions (MRR),25936
+2026-08-20,Enterprise Licenses,13736
+2026-08-21,Acme Subscriptions (MRR),29535
+2026-08-21,Professional Services,6348
+2026-08-22,Acme Subscriptions (MRR),11208
+2026-08-22,Enterprise Licenses,4810
+2026-08-23,Acme Subscriptions (MRR),10642
+2026-08-23,Professional Services,2111
+2026-08-24,Acme Subscriptions (MRR),31325
+2026-08-24,Enterprise Licenses,7647
+2026-08-24,Professional Services,2348
+2026-08-25,Acme Subscriptions (MRR),31419
+2026-08-25,Enterprise Licenses,7213
+2026-08-25,Professional Services,4226
+2026-08-26,Acme Subscriptions (MRR),27527
+2026-08-26,Enterprise Licenses,7273
+2026-08-27,Acme Subscriptions (MRR),26783
+2026-08-27,Professional Services,6940
+2026-08-28,Acme Subscriptions (MRR),27412
+2026-08-28,Enterprise Licenses,9015
+2026-08-28,Professional Services,4647
+2026-08-29,Acme Subscriptions (MRR),11213
+2026-08-29,Professional Services,959
+2026-08-30,Acme Subscriptions (MRR),11283
+2026-08-31,Acme Subscriptions (MRR),28594
+2026-08-31,Enterprise Licenses,8182
+2026-08-31,Professional Services,4531
+2026-09-01,Acme Subscriptions (MRR),28284
+2026-09-01,Enterprise Licenses,7599
+2026-09-01,Professional Services,1799

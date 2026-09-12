@@ -1,0 +1,11 @@
+# Secrets — never commit. Set GROQ_API_KEY in the host dashboard instead.
+.env
+
+# Runtime junk
+__pycache__/
+*.pyc
+*.log
+
+# Local dev
+.venv/
+venv/

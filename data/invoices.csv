@@ -1,0 +1,16 @@
+customer,invoice_id,amount,due_date,status
+Soylent Foods,INV-1001,95000,2026-06-19,paid
+Stark Traders,INV-1002,180000,2026-06-26,paid
+Hooli Systems,INV-1003,120000,2026-07-03,paid
+Initech,INV-1004,95000,2026-07-10,paid
+Stark Traders,INV-1005,180000,2026-07-17,paid
+Massive Dynamic,INV-1006,120000,2026-07-24,paid
+Umbrella Retail,INV-1007,145000,2026-07-31,paid
+Wayne Logistics,INV-1008,120000,2026-08-07,paid
+Umbrella Retail,INV-1009,180000,2026-08-14,paid
+Acme Subscriptions,INV-1010,180000,2026-08-21,paid
+Soylent Foods,INV-1011,145000,2026-08-28,unpaid
+Hooli Systems,INV-1012,240000,2026-08-20,unpaid
+Stark Traders,INV-1013,175000,2026-08-12,unpaid
+Wayne Logistics,INV-1014,320000,2026-07-30,unpaid
+ABC Corp,INV-1015,800000,2026-07-16,unpaid

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FinPilot Live — your finance team that never stops watching</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/static/styles.css?v=terminal3" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="pulse" id="liveDot"></span>
+    <div>
+      <h1>FinPilot Live</h1>
+      <p id="simLine">connecting…</p>
+    </div>
+  </div>
+  <div class="metrics" id="metrics">
+    <div class="metric"><label>Revenue</label><b id="mRevenue">—</b></div>
+    <div class="metric"><label>Expenses</label><b id="mExpenses">—</b></div>
+    <div class="metric"><label>Profit</label><b id="mProfit">—</b></div>
+    <div class="metric"><label>Cash</label><b id="mCash">—</b></div>
+    <div class="metric"><label>Overdue</label><b id="mOverdue">—</b></div>
+    <div class="metric alert"><label>Active Alerts</label><b id="mAlerts">0</b></div>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="feed-col">
+    <div class="col-head">
+      <h2>Live agent feed</h2>
+      <span class="hint">Agents speak up on their own — no questions needed.</span>
+    </div>
+    <div id="feed" class="feed"></div>
+  </section>
+
+  <aside class="manager-col">
+    <div class="manager-card">
+      <div class="mgr-head">
+        <span class="mgr-avatar">🧭</span>
+        <div>
+          <h2>Finance Manager</h2>
+          <p>Synthesises what the specialists notice.</p>
+        </div>
+      </div>
+      <div id="synthList" class="synth-list">
+        <p class="empty">Waiting for the first synthesis…</p>
+      </div>
+      <button id="wsido" class="cta">✨ What should I do?</button>
+      <div id="recoBox" class="reco hidden"></div>
+    </div>
+    <div class="rule-card">
+      <b>Human-in-the-loop:</b> large or unusual items are always
+      <span class="review-tag">flagged for review</span> — never auto-accused.
+      All numbers come from your books, never guessed.
+    </div>
+
+    <div class="chat-card">
+      <div class="chat-head">
+        <h2>Ask Finance</h2>
+        <p>Answers from your books — numbers cited, never guessed.</p>
+      </div>
+      <div id="chatList" class="chat-list">
+        <p class="empty">Try "Why is profit down?" or "Who owes us the most?"</p>
+      </div>
+      <div class="chat-input-row">
+        <input id="chatInput" type="text" maxlength="500" placeholder="Ask about company finances…" autocomplete="off" />
+        <button id="chatSend" class="cta chat-cta">Ask</button>
+      </div>
+    </div>
+  </aside>
+</main>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
