@@ -123,12 +123,7 @@ static/            # index.html, app.js (WS-only), styles.css
 - LLM cannot decide anomaly or invent numbers/dates/vendors.
 - `fraud/fraudulent/scam/embezzlement/theft` stripped → fallback. UI shows `flagged for review`.
 
-## Roadmap
 
-- [ ] Persisted event log / Postgres
-- [ ] Real ERP CSV upload
-- [ ] Slack/email pushes
-- [ ] Approval workflow for actions
 
 ## License
 
