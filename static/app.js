@@ -5,7 +5,7 @@ const simLine = document.getElementById("simLine");
 const recoBox = document.getElementById("recoBox");
 const btn = document.getElementById("wsido");
 
-const ICONS = { "Expense Agent": "💸", "Cash Flow Agent": "💰", "AR Agent": "🧾", "Finance Manager": "🧭" };
+const ICONS = { "Expense Agent": "$", "Cash Flow Agent": "#", "AR Agent": "@", "Finance Manager": ">" };
 
 function inr(n) {
   if (n === null || n === undefined) return "—";
@@ -53,7 +53,7 @@ function addFinding(d) {
   const review = d.review_flag ? `<span class="review-tag">flagged for review</span>` : "";
   el.innerHTML = `
     <div class="card-head">
-      <span>${ICONS[d.agent] || "🤖"}</span>
+      <span>${ICONS[d.agent] || ">"}</span>
       <span class="agent">${d.agent || "Agent"}</span>
       <span class="badge ${d.severity || "info"}">${d.severity || "info"}</span>
       <time>${fmtTime(d.ts)} · ${d.sim_date || ""}</time>
@@ -135,7 +135,7 @@ btn.onclick = async () => {
   try {
     const res = await fetch(apiUrl("/api/what-should-i-do"), { method: "POST" });
     renderReco(await res.json());  // WS broadcast also arrives; render direct response for snappiness
-  } finally { btn.disabled = false; btn.textContent = "✨ What should I do?"; }
+  } finally { btn.disabled = false; btn.textContent = "What should I do?"; }
 };
 
 /* ---- Ask Finance chat (append-only; existing handlers above untouched) ---- */
@@ -256,7 +256,7 @@ function renderSquad() {
     dot.className = "squad-dot";
     const name = document.createElement("span");
     name.className = "squad-name";
-    name.textContent = (ICONS[a] || "🤖") + " " + a;
+    name.textContent = (ICONS[a] || ">") + " " + a;
     const sub = document.createElement("span");
     sub.className = "squad-sub";
     sub.textContent = st.when ? (st.status + " · " + st.when) : "on duty";
