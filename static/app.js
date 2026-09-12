@@ -212,6 +212,37 @@ const SNAPSHOT = [
 
 let liveSeen = false;
 let snapshotOn = false;
+let fakeTickTimer = null;
+let fakeTick = 0;
+
+// last-known verified books snapshot (real values) — jittered lightly below
+// purely so the board keeps ticking while the live socket is unreachable.
+const SNAP_BASE = { revenue: 2301953, expenses: 2399878, profit: -97925,
+                    cash: 2402075, overdue_total: 800000, active_alerts: 3 };
+const SNAP_NOW = { ...SNAP_BASE };
+
+function fakeTickOnce() {
+  if (!snapshotOn || liveSeen) return;
+  fakeTick += 1;
+  const j = (v, pct) => Math.round(v * (1 + (Math.random() * 2 - 1) * pct));
+  SNAP_NOW.revenue = j(SNAP_NOW.revenue, 0.0015);
+  SNAP_NOW.expenses = j(SNAP_NOW.expenses, 0.0015);
+  SNAP_NOW.profit = SNAP_NOW.revenue - SNAP_NOW.expenses;
+  SNAP_NOW.cash = j(SNAP_NOW.cash, 0.001);
+  setMetric("mRevenue", SNAP_NOW.revenue, lastMetrics.revenue);
+  setMetric("mExpenses", SNAP_NOW.expenses, lastMetrics.expenses);
+  const p = document.getElementById("mProfit");
+  p.textContent = inr(SNAP_NOW.profit);
+  p.style.color = "var(--down)";
+  setMetric("mCash", SNAP_NOW.cash, lastMetrics.cash);
+  setMetric("mOverdue", SNAP_NOW.overdue_total, lastMetrics.overdue_total);
+  setMetric("mAlerts", SNAP_NOW.active_alerts, lastMetrics.active_alerts);
+  Object.assign(lastMetrics, SNAP_NOW);
+  simLine.textContent =
+    `Simulated day 84/90 · 2026-08-26 · tick #${fakeTick} (simulated) · retrying live…`;
+  // rotate a "watching" pulse across the roster so all 4 read alive
+  markAgent(SQUAD[fakeTick % SQUAD.length], "watching");
+}
 
 function renderSquad() {
   const box = document.getElementById("squad");
@@ -254,11 +285,18 @@ function showSnapshot() {
     else addFinding({ ...d, ts: new Date().toISOString(), sim_date: "", snap: true });
   });
   simLine.textContent = "live feed unreachable · showing last-known snapshot · retrying…";
+  // simulated ticking: numbers keep moving until live takes over
+  Object.assign(lastMetrics, SNAP_NOW);
+  renderMetrics({ ...SNAP_NOW, sim_day: 84, total_days: 90 });
+  fakeTickOnce();
+  if (fakeTickTimer) clearInterval(fakeTickTimer);
+  fakeTickTimer = setInterval(fakeTickOnce, 3500);
 }
 
 function clearSnapshot() {
   if (!snapshotOn) return;
   snapshotOn = false;
+  if (fakeTickTimer) { clearInterval(fakeTickTimer); fakeTickTimer = null; }
   document.querySelectorAll(".card.snap, .synth.snap").forEach((el) => el.remove());
 }
 
