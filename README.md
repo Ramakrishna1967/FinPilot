@@ -127,4 +127,4 @@ static/            # index.html, app.js (WS-only), styles.css
 
 ## License
 
-MIT — hackathon prototype with synthetic data. No real customer data.
+MIT — hackathon prototype with synthetic data. No real customer data..
