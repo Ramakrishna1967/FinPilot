@@ -214,4 +214,4 @@ def answer_question(question: str, sim_date, docs: list[dict], idf: dict) -> dic
     prompt = (f"Question: {question}\n\nCompany finance records (as of {sim_date.date() if sim_date is not None else 'latest'}):\n"
               f"{context}\n\nAnswer in 2-4 sentences using ONLY these records.")
     answer = narrate("chat", prompt, fallback, max_tokens=250)
-    return {"answer": answer, "sources": [h["title"] for h in hits]}
+    return {"answer": answer, "sources": [h["title"] for h in hits]}        
